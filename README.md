@@ -54,6 +54,7 @@ Start the server
 - [Dark mode com CSS: simples, rápido e fácil](https://www.youtube.com/watch?v=rnkdLX6mOD4&list=PLmjeGBGfojGgFVEDJepjUNMGJqOfhH1DF&index=1).
 - [MDN - css :root documentation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root).
 - [How To Use Our Placeholders](https://placeholder.com).
+- [Learn how to create a "toggle switch" with CSS.](https://www.w3schools.com/howto/howto_css_switch.asp)
 
 ##
 

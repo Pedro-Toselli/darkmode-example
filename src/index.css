@@ -1,13 +1,13 @@
 :root {
-  --background-color: #fff
-  --text-color: #444
+  --background-color: #fff;
+  --text-color: #444;
 
   --dur: 0.2s;
 }
 
 .darkmode:root {
-  --background-color: #444
-  --text-color: #fff
+  --background-color: #444;
+  --text-color: #fff;
 }
 
 * {
