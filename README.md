@@ -45,7 +45,7 @@ Start the server
 | Color     | Hexadecimal                                                 |
 | --------- | ----------------------------------------------------------- |
 | White     | ![#fff](https://via.placeholder.com/10/fff.png?text=+) #fff |
-| Dark gray | ![#444](https://via.placeholder.com/10/444.png?text=+) #444 |
+| Dark grey | ![#444](https://via.placeholder.com/10/444.png?text=+) #444 |
 
 ##
 
