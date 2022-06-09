@@ -17,13 +17,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Pedro-Toselli/easy-darkmode-example.git
+  git clone https://github.com/Pedro-Toselli/darkmode-example.git
 ```
 
 Enter the project directory
 
 ```bash
-  cd easy-darkmode-example
+  cd darkmode-example
 ```
 
 Install the dependencies
