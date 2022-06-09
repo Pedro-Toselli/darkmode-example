@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+#### Hi 👋, welcome to easy darkmode example repository.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##### here you will find a simple application that uses darkmode.
 
-## Available Scripts
+##
 
-In the project directory, you can run:
+### Demo
 
-### `npm start`
+##### 👀 look the application working [here]().
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- Insira um gif ou um link de alguma demonstração -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##
 
-### `npm test`
+### Running locally
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the project
 
-### `npm run build`
+```bash
+  git clone https://github.com/Pedro-Toselli/easy-darkmode-example.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Enter the project directory
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  cd easy-darkmode-example
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install the dependencies
 
-### `npm run eject`
+```bash
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start the server
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Color documentation
 
-## Learn More
+| Color     | Hexadecimal                                                 |
+| --------- | ----------------------------------------------------------- |
+| White     | ![#fff](https://via.placeholder.com/10/fff.png?text=+) #fff |
+| Dark gray | ![#444](https://via.placeholder.com/10/444.png?text=+) #444 |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### References
 
-### Code Splitting
+- [Dark mode com CSS: simples, rápido e fácil](https://www.youtube.com/watch?v=rnkdLX6mOD4&list=PLmjeGBGfojGgFVEDJepjUNMGJqOfhH1DF&index=1).
+- [MDN - css :root documentation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root).
+- [How To Use Our Placeholders](https://placeholder.com).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+##
 
-### Analyzing the Bundle Size
+### Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| [<img src="https://avatars.githubusercontent.com/u/73919445?v=4" height="100px"><br><sub>@Pedro-Toselli</sub>](https://github.com/Pedro-Toselli) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: |
